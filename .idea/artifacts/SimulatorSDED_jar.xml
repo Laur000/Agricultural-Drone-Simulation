@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimulatorSDED:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimulatorSDED_jar</output-path>
+    <root id="archive" name="SimulatorSDED.jar">
+      <element id="module-output" name="SimulatorSDED" />
+    </root>
+  </artifact>
+</component>
